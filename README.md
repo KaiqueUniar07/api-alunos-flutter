@@ -7,6 +7,7 @@ Esta é a API da aplicação de Cadastro de Alunos, desenvolvido com Spring Boot
 - Java 17 
 - Maven 
 - IDE utilizada: IntelliJ
+- MongoDB
 
 ## API:
 
@@ -17,4 +18,4 @@ Esta é a API da aplicação de Cadastro de Alunos, desenvolvido com Spring Boot
 
 ## Observação
 
-- Certificar que o Front-end(React) está rodando e recebendo as requisições
+- Certificar que o Front-end(Flutter) está rodando e recebendo as requisições
